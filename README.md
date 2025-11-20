@@ -31,6 +31,7 @@ A modern, professional dashboard for real-time JIRA ticket monitoring, team work
 
 ## 🚀 Installation
 
+
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/drylikov/ccmyjira_site.git
