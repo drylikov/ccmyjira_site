@@ -20,6 +20,7 @@ A modern, professional dashboard for real-time JIRA ticket monitoring, team work
 
 
 
+
 - **Bun** (latest version)
 - **JIRA instance** with API access
 - **Valid JIRA project key**
