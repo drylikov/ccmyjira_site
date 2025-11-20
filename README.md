@@ -47,6 +47,7 @@ cd ccmyjira_site
 bun install
 ```
 
+
 3. **Set up environment variables:**
 ```bash
 cp env.example .env.local
