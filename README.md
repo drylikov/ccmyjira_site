@@ -41,6 +41,7 @@ git clone https://github.com/drylikov/ccmyjira_site.git
 cd ccmyjira_site
 ```
 
+
 2. **Install dependencies:**
 ```bash
 bun install
