@@ -26,6 +26,7 @@ A modern, professional dashboard for real-time JIRA ticket monitoring, team work
 - **Valid JIRA project key**
 
 
+
 ## 🚀 Installation
 
 1. **Clone the repository:**
