@@ -1,0 +1,19 @@
+
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        # install bun
+        - curl -fsSL https://bun.sh/install | bash
+        - source /root/.bashrc
+        - bun install
+    build:
+      commands:
+        - env | grep -e NODE_ENV >> .env.production
+        - env | grep -e NEXT_PUBLIC_API_BASE_URL >> .env.production
+        - bun run build
+  artifacts:
+    baseDirectory: .next
+    files:
+      - '**/*'
