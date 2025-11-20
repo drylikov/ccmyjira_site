@@ -65,6 +65,7 @@ NEXT_PUBLIC_API_BASE_URL=http://localhost:3001
 bun dev
 ```
 
+
 5. **Open [http://localhost:3000](http://localhost:3000) in your browser.**
 
 ## ✨ Features Overview
