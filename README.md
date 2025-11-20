@@ -53,6 +53,7 @@ bun install
 cp env.example .env.local
 ```
 
+
 Configure your `.env.local`:
 ```env
 NEXT_PUBLIC_API_BASE_URL=http://localhost:3001
