@@ -1,6 +1,7 @@
 
 
 
+
 # CCMyJIRA - Professional JIRA Dashboard
 
 A modern, professional dashboard for real-time JIRA ticket monitoring, team workload management, and system performance tracking.
