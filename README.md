@@ -14,6 +14,7 @@ A modern, professional dashboard for real-time JIRA ticket monitoring, team work
 
 
 
+
 ## 🛠 Prerequisites
 
 - **Bun** (latest version)
